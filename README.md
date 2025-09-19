@@ -1,5 +1,4 @@
-## Diabetes Detection ML Project
-# Pima Indians Diabetes Prediction
+# Diabetes Detection ML Project
 
 ## Project Overview
 This project predicts whether a patient has diabetes using the **Pima Indians Diabetes Dataset**.  

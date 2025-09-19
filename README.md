@@ -19,6 +19,12 @@ Pima-Diabetes-ML/
 
 ---
 
+## Results
+
+Test Accuracy: ~77%
+Confusion Matrix: Displayed in notebook
+Key Takeaway: Logistic Regression provides a strong baseline model 
+
 ## Requirements
 - Python 3.8+
 - pandas, numpy, matplotlib, seaborn, scikit-learn
@@ -28,8 +34,7 @@ Install dependencies:
 pip install pandas numpy matplotlib seaborn scikit-learn
 
 ---
-## Results
+'''
 
-Test Accuracy: ~77%
-Confusion Matrix: Displayed in notebook
-Key Takeaway: Logistic Regression provides a strong baseline model
+
+
